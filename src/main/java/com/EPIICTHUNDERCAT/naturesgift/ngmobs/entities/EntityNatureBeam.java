@@ -1,6 +1,6 @@
-package com.EPIICTHUNDERCAT.naturesgift.ngmobs.entities;
+package com.epiicthundercat.naturesgift.ngmobs.entities;
 
-import com.EPIICTHUNDERCAT.naturesgift.NaturesGift;
+import com.epiicthundercat.naturesgift.NaturesGift;
 
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.entity.player.EntityPlayer;

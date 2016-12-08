@@ -1,4 +1,4 @@
-package com.EPIICTHUNDERCAT.naturesgift.ngmobs.entities;
+package com.epiicthundercat.naturesgift.ngmobs.entities;
 
 import net.minecraft.entity.EntityLivingBase;
 import net.minecraft.entity.projectile.EntityThrowable;

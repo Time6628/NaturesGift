@@ -1,9 +1,9 @@
-package com.EPIICTHUNDERCAT.naturesgift.ngmobs.entities;
+package com.epiicthundercat.naturesgift.ngmobs.entities;
 
 import javax.annotation.Nullable;
 
-import com.EPIICTHUNDERCAT.naturesgift.Reference;
-import com.EPIICTHUNDERCAT.naturesgift.util.NGSoundHandler;
+import com.epiicthundercat.naturesgift.Reference;
+import com.epiicthundercat.naturesgift.util.NGSoundHandler;
 
 import net.minecraft.block.Block;
 import net.minecraft.entity.EntityLiving;

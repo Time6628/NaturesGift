@@ -1,7 +1,7 @@
-package com.EPIICTHUNDERCAT.naturesgift.ngmobs.render;
+package com.epiicthundercat.naturesgift.ngmobs.render;
 
-import com.EPIICTHUNDERCAT.naturesgift.ngmobs.entities.EntityAgaric;
-import com.EPIICTHUNDERCAT.naturesgift.ngmobs.models.AgaricModel;
+import com.epiicthundercat.naturesgift.ngmobs.entities.EntityAgaric;
+import com.epiicthundercat.naturesgift.ngmobs.models.AgaricModel;
 
 import net.minecraft.client.model.ModelBase;
 import net.minecraft.client.renderer.entity.Render;

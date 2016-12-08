@@ -1,4 +1,4 @@
-package com.EPIICTHUNDERCAT.naturesgift.ngmobs.models;
+package com.epiicthundercat.naturesgift.ngmobs.models;
 
 import net.minecraft.client.model.ModelBase;
 import net.minecraft.client.model.ModelRenderer;

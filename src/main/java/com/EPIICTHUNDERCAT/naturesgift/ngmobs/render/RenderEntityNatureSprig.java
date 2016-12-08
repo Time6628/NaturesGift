@@ -1,7 +1,7 @@
-package com.EPIICTHUNDERCAT.naturesgift.ngmobs.render;
+package com.epiicthundercat.naturesgift.ngmobs.render;
 
-import com.EPIICTHUNDERCAT.naturesgift.ngmobs.entities.EntityNatureSprig;
-import com.EPIICTHUNDERCAT.naturesgift.ngmobs.models.NatureSprigModel;
+import com.epiicthundercat.naturesgift.ngmobs.entities.EntityNatureSprig;
+import com.epiicthundercat.naturesgift.ngmobs.models.NatureSprigModel;
 
 import net.minecraft.client.model.ModelBase;
 import net.minecraft.client.renderer.entity.Render;

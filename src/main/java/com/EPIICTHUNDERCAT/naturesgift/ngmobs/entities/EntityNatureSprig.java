@@ -1,8 +1,8 @@
-package com.EPIICTHUNDERCAT.naturesgift.ngmobs.entities;
+package com.epiicthundercat.naturesgift.ngmobs.entities;
 
 import javax.annotation.Nullable;
 
-import com.EPIICTHUNDERCAT.naturesgift.Reference;
+import com.epiicthundercat.naturesgift.Reference;
 import com.google.common.base.Predicate;
 
 import net.minecraft.block.Block;

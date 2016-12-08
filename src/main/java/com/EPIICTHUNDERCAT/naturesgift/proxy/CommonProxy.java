@@ -1,17 +1,17 @@
 package com.epiicthundercat.naturesgift.proxy;
 
 
-import com.EPIICTHUNDERCAT.naturesgift.NaturesGift;
-import com.EPIICTHUNDERCAT.naturesgift.Misc.NGAchievement;
-import com.EPIICTHUNDERCAT.naturesgift.drops.NGMobDrops;
-import com.EPIICTHUNDERCAT.naturesgift.drops.NGTreeDrops;
-import com.EPIICTHUNDERCAT.naturesgift.init.NGBlocks;
-import com.EPIICTHUNDERCAT.naturesgift.init.NGItems;
-import com.EPIICTHUNDERCAT.naturesgift.init.NGRecipes;
-import com.EPIICTHUNDERCAT.naturesgift.ngmobs.entities.EntityAgaricShot;
-import com.EPIICTHUNDERCAT.naturesgift.ngmobs.entities.EntityNatureBeam;
-import com.EPIICTHUNDERCAT.naturesgift.util.EventManager;
-import com.EPIICTHUNDERCAT.naturesgift.util.NGEntityRegistry;
+import com.epiicthundercat.naturesgift.NaturesGift;
+import com.epiicthundercat.naturesgift.Misc.NGAchievement;
+import com.epiicthundercat.naturesgift.drops.NGMobDrops;
+import com.epiicthundercat.naturesgift.drops.NGTreeDrops;
+import com.epiicthundercat.naturesgift.init.NGBlocks;
+import com.epiicthundercat.naturesgift.init.NGItems;
+import com.epiicthundercat.naturesgift.init.NGRecipes;
+import com.epiicthundercat.naturesgift.ngmobs.entities.EntityAgaricShot;
+import com.epiicthundercat.naturesgift.ngmobs.entities.EntityNatureBeam;
+import com.epiicthundercat.naturesgift.util.EventManager;
+import com.epiicthundercat.naturesgift.util.NGEntityRegistry;
 
 import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;

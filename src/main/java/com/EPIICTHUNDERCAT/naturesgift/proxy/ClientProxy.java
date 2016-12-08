@@ -1,13 +1,13 @@
 package com.epiicthundercat.naturesgift.proxy;
 
-import com.EPIICTHUNDERCAT.naturesgift.Misc.ParticleLeaf;
-import com.EPIICTHUNDERCAT.naturesgift.init.NGBlocks;
-import com.EPIICTHUNDERCAT.naturesgift.init.NGItems;
-import com.EPIICTHUNDERCAT.naturesgift.ngmobs.entities.EntityAgaricShot;
-import com.EPIICTHUNDERCAT.naturesgift.ngmobs.entities.EntityNatureBeam;
-import com.EPIICTHUNDERCAT.naturesgift.ngmobs.render.RenderEntityAgaricShot;
-import com.EPIICTHUNDERCAT.naturesgift.ngmobs.render.RenderEntityNatureBeam;
-import com.EPIICTHUNDERCAT.naturesgift.util.NGEntityRegistry;
+import com.epiicthundercat.naturesgift.Misc.ParticleLeaf;
+import com.epiicthundercat.naturesgift.init.NGBlocks;
+import com.epiicthundercat.naturesgift.init.NGItems;
+import com.epiicthundercat.naturesgift.ngmobs.entities.EntityAgaricShot;
+import com.epiicthundercat.naturesgift.ngmobs.entities.EntityNatureBeam;
+import com.epiicthundercat.naturesgift.ngmobs.render.RenderEntityAgaricShot;
+import com.epiicthundercat.naturesgift.ngmobs.render.RenderEntityNatureBeam;
+import com.epiicthundercat.naturesgift.util.NGEntityRegistry;
 
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.audio.ISound;
